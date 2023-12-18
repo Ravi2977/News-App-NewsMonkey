@@ -1,0 +1,1306 @@
+{
+    "status": "ok",
+    "totalResults": 1951,
+    "articles": [
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Richard Lai",
+            "title": "Apple now needs a judge's order to hand over push notification records",
+            "description": "Following the revelation that our mobile push notification records can be handed over to law enforcements, Apple put the blame on the Department of Justice (DOJ) for preventing tech companies from revealing such process. Meanwhile, the company also updated it…",
+            "url": "https://www.engadget.com/apple-now-needs-a-judges-order-to-hand-over-push-notification-records-052710429.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/bvzeoABjZh1VJscBWhYSlw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-09/2e1e2f30-5695-11ee-ac7f-6dcbde5bcacd",
+            "publishedAt": "2023-12-14T05:27:10Z",
+            "content": "Following the revelation that our mobile push notification records can be handed over to law enforcements, Apple put the blame on the Department of Justice (DOJ) for preventing tech companies from re… [+1670 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Sarah Fielding",
+            "title": "The Apple Watch Ultra 2 falls back to a low of $699",
+            "description": "If you're looking to get a new Apple Watch as a holiday present for someone else (or yourself!), you're in luck. The Apple Watch Ultra 2 is back down to its all-time low price of $699, from $799. This deal comes courtesy of a six percent discount on the Ultra…",
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_51713d4d-67ff-473b-bf8f-08a109e93176",
+            "urlToImage": null,
+            "publishedAt": "2023-12-14T12:55:48Z",
+            "content": "Si vous cliquez sur « Tout accepter », nos partenaires (y compris 241 qui font partie du Cadre de transparence et de consentement dIAB) et nous utiliserons également des témoins et vos données person… [+982 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Tesco recalls Christmas stuffing mix because it may contain moths",
+            "description": "The UK's largest retailer says a batch of Christmas stuffing may be \"unfit for human consumption\",",
+            "url": "https://www.bbc.co.uk/news/business-67710700",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8665/production/_132050443_gettyimages-1277207512-1.jpg",
+            "publishedAt": "2023-12-14T10:55:25Z",
+            "content": "Tesco has recalled a batch of Christmas stuffing mix due to the possible presence of moths in the product.\r\nThe batch of Tesco Finest Apple &amp; Cranberry Stuffing Mix may be \"unfit for human consum… [+538 chars]"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Samuel Axon",
+            "title": "Guidemaster: A cheat sheet for comparing the iPhone 15 lineup’s cameras",
+            "description": "Most folks don't need the Pros, but there are some use cases where it matters.",
+            "url": "https://arstechnica.com/gadgets/2023/12/guidemaster-a-cheat-sheet-for-comparing-the-iphone-15-lineups-cameras/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/iPhone-15-lineup-760x380.jpeg",
+            "publishedAt": "2023-12-14T00:08:18Z",
+            "content": "Enlarge/ The iPhone 15 lineup.\r\n8\r\nOver the past couple of years of reviewing the iPhone, we've often jokingly called them \"smartcameras\" rather than smartphones, as the camera features are really wh… [+11605 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Central"
+            },
+            "author": "bradypsnyder@gmail.com (Brady Snyder)",
+            "title": "Beeper's Mini is down once again after Apple vowed to protect iMessage",
+            "description": "iMessage for Beeper Mini and Cloud are unavailable again as Apple continues to ward off unauthorized attempts to access its messaging service.",
+            "url": "https://www.androidcentral.com/apps-software/beeper-mini-down-again",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/7PHSHKgTneXCZo78APxUB3-1200-80.jpg",
+            "publishedAt": "2023-12-14T01:49:42Z",
+            "content": "<ul><li>Beeper said it is looking into reports that iMessage is unavailable on Beeper Mini and Cloud as of Wednesday night.</li><li>The development came after Apple vowed to continue fighting against… [+2904 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Central"
+            },
+            "author": "bradypsnyder@gmail.com (Brady Snyder)",
+            "title": "Google, Meta, Qualcomm, and others form a group striving for interoperability in the EU",
+            "description": "The Coalition for Open Digital Ecosystems (CODE), which includes 10 big tech companies, aims to create open digital systems.",
+            "url": "https://www.androidcentral.com/apps-software/big-tech-coalition-open-digital-ecosystems",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/z6tvCEtF9C5BiHta3vMEoh-1200-80.jpeg",
+            "publishedAt": "2023-12-14T18:31:38Z",
+            "content": "<ul><li>Google, Meta, Qualcomm, and seven more big tech companies are forming a Coalition for Open Digital Ecosystems (CODE).</li><li>The new group will develop plans for open digital ecosystems in t… [+3159 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Central"
+            },
+            "author": "techkritiko@gmail.com (Jay Bonggolto)",
+            "title": "Meta's Threads finally arrives in Europe nearly half a year after its debut",
+            "description": "Mark Zuckerberg confirmed that Threads is spreading its wings across Europe, aiming to give X some serious competition.",
+            "url": "https://www.androidcentral.com/apps-software/threads-rolling-out-in-more-eu-countries",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/WFe6c9745ogqQJrHwGZ7pQ-1200-80.jpg",
+            "publishedAt": "2023-12-14T20:26:53Z",
+            "content": "<ul><li>Threads, Meta's response to X, has finally landed in the European Union after facing regulatory hurdles.</li><li>Launched in July as an extended version of Instagram Notes, Threads pulled in … [+1966 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Hartley Charlton",
+            "title": "Apple Chipmaker Discusses Highly Advanced 1.4nm Chips for First Time",
+            "description": "TSMC has officially mentioned its work on 1.4nm fabrication technology that is likely destined to underpin future Apple silicon chips.\n\n\n\n\n\nIn a slide (via SemiAnalysis's Dylan Patel) from its Future of Logic panel, TSMC disclosed the official name of its 1.4…",
+            "url": "https://www.macrumors.com/2023/12/14/tsmc-mentions-highly-advanced-1-4nm-chips/",
+            "urlToImage": "https://images.macrumors.com/t/ERXbALqGfy0lkvWipEq15WE1xic=/1600x/article-new/2023/11/apple-silicon-1-feature.jpg",
+            "publishedAt": "2023-12-14T14:19:10Z",
+            "content": "TSMC has officially mentioned its work on 1.4nm fabrication technology that is likely destined to underpin future Apple silicon chips.\r\nIn a slide (via SemiAnalysis's Dylan Patel) from its Future of … [+1842 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Juli Clover",
+            "title": "Apple Seeds First Public Beta of iOS 17.3 With Stolen Device Protection",
+            "description": "Apple today seeded the first betas of upcoming iOS 17.3 and iPadOS 17.3 updates to public beta testers, allowing non-developers to test the software ahead of its release. The public iOS 17.3 and iPadOS 17.3 betas come two days after Apple released the betas f…",
+            "url": "https://www.macrumors.com/2023/12/14/apple-seeds-ios-17-3-public-beta-1/",
+            "urlToImage": "https://images.macrumors.com/t/W_ym_RxZ3_Fe6GrMB1uFJxIwmjg=/2500x/article-new/2023/12/iOS-17.3-Feature.jpg",
+            "publishedAt": "2023-12-14T18:10:34Z",
+            "content": "Apple today seeded the first betas of upcoming iOS 17.3 and iPadOS 17.3 updates to public beta testers, allowing non-developers to test the software ahead of its release. The public iOS 17.3 and iPad… [+1452 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Tim Hardwick",
+            "title": "iOS 17.2: How to Translate Speech With iPhone's Action Button",
+            "description": "Overcome communication barriers with the new custom Translation option for the iPhone's Action button in iOS 17.2. Keep reading to learn how to use it.\n\n\n\n\n\nIf you have an ‌iPhone‌ with an Action button, such as the iPhone 15 Pro, Apple's iOS 17.2 software up…",
+            "url": "https://www.macrumors.com/how-to/translate-iphone-action-button/",
+            "urlToImage": "https://images.macrumors.com/t/gai5jfu-M1_5vSWKQLJQvwOxFww=/1600x/article-new/2023/09/iPhone-15-Pro-Action-Button-Translate.jpg",
+            "publishedAt": "2023-12-14T16:25:08Z",
+            "content": "Overcome communication barriers with the new custom Translation option for the iPhone's Action button in iOS 17.2. Keep reading to learn how to use it.\r\nIf you have an ‌iPhone‌ with an Action button,… [+1477 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Lexy Savvides",
+            "title": "I Trained With a Champion Cyclist to Test Apple Watch's Custom Workouts - CNET",
+            "description": "WatchOS 10 lets you import custom workouts from apps like TrainingPeaks straight to the Apple Watch.",
+            "url": "https://www.cnet.com/tech/mobile/i-trained-with-a-champion-cyclist-to-test-apple-watchs-custom-workouts/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/4fadcfddaa9b3372fa567da822ff650ac98e9c89/hub/2023/12/11/da93ae9c-92b7-4475-97fc-4ec54bcec8c7/trainingpeaks-applewatch-1.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2023-12-14T14:00:08Z",
+            "content": "Athletes of all levels have used the Apple Watch to track workouts for years, but it's getting even more flexibility thanks to WatchOS 10. Platforms like TrainingPeaks can now contribute custom worko… [+5874 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Oliver Haslam",
+            "title": "Bag This Apple Watch Ultra 2 Holiday Deal Before It's Too Late - CNET",
+            "description": "With the Christmas festivities upon us it's time to treat the most important person in your life -- yourself.",
+            "url": "https://www.cnet.com/deals/bag-this-apple-watch-ultra-2-holiday-deal-before-its-too-late/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/cb326762a3e482f5109c619debf071e6d8be1d05/hub/2023/12/08/8a43a28d-fd5f-475a-b66e-612a6757c1c5/artboard-6-2.png?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2023-12-14T17:25:03Z",
+            "content": "The Apple Watch Ultra 2 is the best smartwatch on the market by some measures, but it's also one of the most costly. However, despite having only been available since September it's already being off… [+1257 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Scott Stein",
+            "title": "Spatial Video Shot With My iPhone Looks Amazing in the Apple Vision Pro - CNET",
+            "description": "Hi Mom, you're in 3D. Here's what Apple's memory capture feels like when it's my own life captured with my iPhone.",
+            "url": "https://www.cnet.com/tech/computing/i-saw-my-iphone-spatial-movies-in-apple-vision-pro/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/9fdb54da24ff1f4deec3b410e0418506f4cf5ad8/hub/2023/12/14/5eae55d4-d13b-45e3-a76b-4fa3930da608/vision-pro-spatial-video-1.png?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2023-12-14T17:00:00Z",
+            "content": "I saw Apple's Vision Pro for a third time in 2023. This time, I wasn't looking at Avatar, or Apple's test photos or videos. I was looking at my mom and sister at Thanksgiving, and my kids playing gui… [+5750 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Mitchel Broussard",
+            "title": "Best Buy Has Nearly Every Apple Watch Series 9 and SE at Record Low Prices With Christmas Delivery",
+            "description": "Best Buy has introduced a new sale on Apple Watch models this week, with all-time low prices available on Apple Watch Series 9, as well as solid discounts on the Apple Watch SE.\n\n\n\nNote: MacRumors is an affiliate partner with some of these vendors. When you c…",
+            "url": "https://www.macrumors.com/2023/12/14/best-buy-apple-watch-series-9/",
+            "urlToImage": "https://images.macrumors.com/t/D8hhbKFRVuz57EZj1U-EyUsBwBY=/2000x/article-new/2023/11/apple-watch-series-9-candy-canes.jpg",
+            "publishedAt": "2023-12-14T14:52:16Z",
+            "content": "Best Buy has introduced a new sale on Apple Watch models this week, with all-time low prices available on Apple Watch Series 9, as well as solid discounts on the Apple Watch SE.\r\nNote: MacRumors is a… [+1853 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Juli Clover",
+            "title": "Apple Releases iTunes for Windows 12.13.1 With Security Fixes",
+            "description": "Apple today released an iTunes 12.13.1 update for Windows users, with the software introducing security improvements.\n\n\n\n\n\nAccording to Apple's release notes, there are no notable new features, but the new version of iTunes should be installed as soon as poss…",
+            "url": "https://www.macrumors.com/2023/12/14/itunes-for-windows-12-13-1/",
+            "urlToImage": "https://images.macrumors.com/t/eFsRunD6Ujk4S9_S-62_JGs0ZQg=/2000x/article-new/2022/05/itunes-for-windows.jpg",
+            "publishedAt": "2023-12-14T18:45:46Z",
+            "content": "Apple today released an iTunes 12.13.1 update for Windows users, with the software introducing security improvements.\r\nAccording to Apple's release notes, there are no notable new features, but the n… [+532 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Juli Clover",
+            "title": "Apple Seeds First Public Beta of macOS Sonoma 14.3",
+            "description": "Apple today seeded the first public beta of an upcoming macOS Sonoma 14.3 update, allowing non-developers to test out the software ahead of its release. The public beta comes two days after the first developer beta.\n\n\n\n\n\nBeta testers can opt-in through the So…",
+            "url": "https://www.macrumors.com/2023/12/14/apple-seeds-macos-sonoma-14-3-public-beta-1/",
+            "urlToImage": "https://images.macrumors.com/t/2_H_ficbzzTio6tnEYYHj0421CQ=/2336x/article-new/2023/06/macos-sonoma-4.jpg",
+            "publishedAt": "2023-12-14T18:09:58Z",
+            "content": "Apple today seeded the first public beta of an upcoming macOS Sonoma 14.3 update, allowing non-developers to test out the software ahead of its release. The public beta comes two days after the first… [+999 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Juli Clover",
+            "title": "iOS 17.3 Beta: All the New Features So Far",
+            "description": "Apple started testing the iOS 17.3 and iPadOS 17.3 betas in December, and while we are not expecting these updates to be as feature rich as iOS and iPadOS 17.2, there are some notable features that have been found so far.\n\n\n\n\n\nThis guide aggregates everything…",
+            "url": "https://www.macrumors.com/guide/ios-17-3-beta-features/",
+            "urlToImage": "https://images.macrumors.com/t/W_ym_RxZ3_Fe6GrMB1uFJxIwmjg=/2500x/article-new/2023/12/iOS-17.3-Feature.jpg",
+            "publishedAt": "2023-12-14T23:20:58Z",
+            "content": "Apple started testing the iOS 17.3 and iPadOS 17.3 betas in December, and while we are not expecting these updates to be as feature rich as iOS and iPadOS 17.2, there are some notable features that h… [+4407 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Tim Hardwick",
+            "title": "iOS 17.2: How to Disable iPhone Inline Predictive Text",
+            "description": "Apple in iOS 17 added inline predictive text for iPhones, but did not include a way to turn it off independently of predictive suggestions above the keyboard. In the latest iOS 17.2 update, that's changed. \n\n\n\n\n\nApple has improved its machine learning technol…",
+            "url": "https://www.macrumors.com/how-to/disable-iphone-inline-predictive-text/",
+            "urlToImage": "https://images.macrumors.com/t/TRl3XKq_s7JivadlO4To6Aa7Yc0=/1920x/article-new/2023/12/inline-predictive-text.jpg",
+            "publishedAt": "2023-12-14T13:53:54Z",
+            "content": "Apple in iOS 17 added inline predictive text for iPhones, but did not include a way to turn it off independently of predictive suggestions above the keyboard. In the latest iOS 17.2 update, that's ch… [+1325 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Kylie Kirschner",
+            "title": "This is the $99 Apple case you'll want if you own AirPods Pro",
+            "description": "Those with older versions of Apple's AirPods Pro can now update just their case to USB-C.",
+            "url": "https://www.businessinsider.com/apple-airpods-pro-usb-c-charging-case-2023-12",
+            "urlToImage": "https://i.insider.com/657b296a0ec98e92f74f6fbf?width=1200&format=jpeg",
+            "publishedAt": "2023-12-14T18:12:44Z",
+            "content": "Apple / Insider\r\n<ul><li>Apple just released a standalone Magsafe USB-C case for the AirPods Pro.</li><li>Owners of Lightning AirPods Pro 2 models without magsafe charging can now upgrade only the ca… [+1735 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Jennifer Ortakales Dawkins",
+            "title": "Gen Z is the 'dupe' generation",
+            "description": "Business Insider data found that Gen Z is the most likely to buy dupes.  It's easier than ever to buy knockoffs or dupes thanks to TikTok and e-commerce retailers like Amazon and Shein.",
+            "url": "https://www.businessinsider.com/gen-z-is-the-dupe-generation-2023-12",
+            "urlToImage": "https://i.insider.com/6577444658e7c0c29a2bac03?width=1200&format=jpeg",
+            "publishedAt": "2023-12-14T17:01:28Z",
+            "content": "Getty Images; Alyssa Powell/Insider\r\nWhen Ella Lin was in middle school, her clothes had to be name brands or they were \"uncool.\" Now that she's in college, she and her friends proudly buy dupes of t… [+12397 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ReadWrite"
+            },
+            "author": "Brian-Damien Morgan",
+            "title": "Intel’s new Core Ultra chips are built for AI era",
+            "description": "Intel’s Core Ultra marks the “Age of the AI PC”, according to the global computing giant’s newsroom and social channels. The […]\nThe post Intel’s new Core Ultra chips are built for AI era appeared first on ReadWrite.",
+            "url": "https://readwrite.com/intel-announces-pc-processors-for-the-ai-era/",
+            "urlToImage": "https://readwrite.com/wp-content/uploads/2023/12/Intel-Core-Ultra-2.jpg",
+            "publishedAt": "2023-12-14T19:46:04Z",
+            "content": "Intels Core Ultra marks the Age of the AI PC, according to the global computing giants newsroom\r\n and social channels.\r\nThe age of the AI PC is here with the new #IntelCoreUltra processor. The most e… [+1845 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ReadWrite"
+            },
+            "author": "Ali Rees",
+            "title": "InoxCVA IPO: India’s cryogenic tank maker fully subscribed on first day",
+            "description": "Inox India’s initial public offering (IPO) opened on Dec. 14th at Rs 627-Rs 660 ($7.52 – $7.92) per share and […]\nThe post InoxCVA IPO: India’s cryogenic tank maker fully subscribed on first day appeared first on ReadWrite.",
+            "url": "https://readwrite.com/inoxcva-india-ipo-cryogenic-tank-maker-fully-subscribed-on-first-day/",
+            "urlToImage": "https://readwrite.com/wp-content/uploads/2023/12/DALL·E-2023-12-14-12.11.24-A-conceptual-image-of-_INOXCVA_-an-Indian-cryogenics-company-without-any-people-in-the-scene.-The-focus-is-on-a-futuristic-industrial-environment-fe.png",
+            "publishedAt": "2023-12-14T12:12:54Z",
+            "content": "Inox India’s initial public offering (IPO) opened on Dec. 14th at Rs 627-Rs 660 ($7.52 – $7.92) per share and fully subscribed after the first day, reports India Today.\r\nThe offering is not due to cl… [+1786 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Kotaku"
+            },
+            "author": "Kenneth Shepard",
+            "title": "How To Get Dipplin’s New Evolved Form In Pokémon Scarlet And Violet",
+            "description": "Pokémon Scarlet and Violet’s Indigo Disk DLC adds a handful of new monsters to catch, one of which is, as fans had theorized, an evolution to Dipplin called Hydrapple. This means one of Applin’s diverging evolutionary lines finally has a third form. But if yo…",
+            "url": "https://kotaku.com/pokemon-scarlet-violet-indigo-disk-hydrapple-dipplin-1851099066",
+            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/2f3d884abb99f12192610bb289a8e57b.jpg",
+            "publishedAt": "2023-12-14T15:22:57Z",
+            "content": "Pokémon Scarlet and Violets Indigo Disk DLC adds a handful of new monsters to catch, one of which is, as fans had theorized, an evolution to Dipplin called Hydrapple. This means one of Applins diverg… [+2302 chars]"
+        },
+        {
+            "source": {
+                "id": "polygon",
+                "name": "Polygon"
+            },
+            "author": "Julia Lee",
+            "title": "How to evolve Dipplin into Hydrapple in Pokémon Scarlet and Violet: The Indigo Disk",
+            "description": "You can evolve your Dipplin into a Hydrapple in the Pokémon Scarlet and Violet DLC, The Indigo Disk, by teaching a specific move. We explain where to find it.",
+            "url": "https://www.polygon.com/pokemon-scarlet-violet-guide/24001602/evolve-dipplin-hydrapple-applin-tm226-location-dragon-cheer",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/fft2-htRTYm22rxufvHWGuxTrtA=/0x0:1663x871/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25163793/obs64_2023_12_14_17_06_00.png",
+            "publishedAt": "2023-12-14T22:29:57Z",
+            "content": "The Indigo Disk, Pokémon Scarlet and Violets second DLC, introduced a new evolution for Applin: Hydrapple. Hydrapple is actually an evolution for Dipplin, which was previously introduced in The Teal … [+1658 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Boing Boing"
+            },
+            "author": "Boing Boing's Shop",
+            "title": "This refurbished Apple iPad Air is an incredible 75% off through 12/17!",
+            "description": "TL:DR: Don't overspend on tech this holiday season and opt for this beautifully grade-B refurbished Apple iPad Air in space gray for a mere $120 down from $500 through 12//17! But if you want it to arrive in time for the holidays, be sure to purchase yours be…",
+            "url": "https://boingboing.net/2023/12/14/this-refurbished-apple-ipad-air-is-an-incredible-75-off-through-12-17.html",
+            "urlToImage": "https://i0.wp.com/boingboing.net/wp-content/uploads/2023/12/sale_294465_article_image-3.jpg?fit=1200%2C800&ssl=1",
+            "publishedAt": "2023-12-14T16:00:00Z",
+            "content": "TL:DR: Don't overspend on tech this holiday season and opt for this beautifully grade-B refurbished Apple iPad Air in space gray for a mere $120 down from $500 through 12//17! But if you want it to a… [+1890 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Kurt Knutsson, CyberGuy Report",
+            "title": "Just point your iPhone at anything, let it speak what it sees",
+            "description": "The iPhone's point-and-speak feature is part of the phone's magnifier app and allows users to discover new details in their surroundings.",
+            "url": "https://www.foxnews.com/tech/just-point-your-iphone-at-anything-let-it-speak-what-it-sees",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/01/IPHONE-14.jpg",
+            "publishedAt": "2023-12-14T16:00:04Z",
+            "content": "Have you ever wished you could see things nearby better than your eyes? Maybe you want to read small print on a label, a menu or a book.\r\nOr maybe you just want to have some fun with your iPhone and … [+6727 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cool Hunting"
+            },
+            "author": "Josh Rubin",
+            "title": "Recording Spatial Video and Viewing it in Apple Vision Pro",
+            "description": "In iOS 17.2, Apple enabled Spatial Video recording on iPhone models 15 Pro and Pro Max. These iPhones capture spatial content using the phone’s main and ultrawide cameras simultaneously, and the fo…",
+            "url": "http://coolhunting.com/tech/recording-spatial-video-and-viewing-it-in-apple-vision-pro/",
+            "urlToImage": "https://150102931.v2.pressablecdn.com/wp-content/uploads/2023/06/Apple-Vision-Pro-joshrubin-scaled.jpg",
+            "publishedAt": "2023-12-14T17:00:27Z",
+            "content": "During our third demo with headset the nuances of spatial video come to life\n\n\nRead\nTech\r\n\n\n\n\n\nRecording Spatial Video and Viewing it in Apple Vision Pro\r\n\n\n\nDuring our third demo with headset the nu… [+5227 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Digital Trends"
+            },
+            "author": "Christine Persaud",
+            "title": "6 most underrated TV shows of 2023",
+            "description": "The six most underrated TV shows of 2023 are on multiple streaming services, from Apple TV+'s Silo to Prime Video's Gen V.",
+            "url": "https://www.digitaltrends.com/movies/6-most-underrated-tv-shows-2023/",
+            "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2023/06/silo-allison-holston.jpg?resize=1200%2C630&p=1",
+            "publishedAt": "2023-12-14T17:30:17Z",
+            "content": "Many new shows dominated the conversation this year, including The Last of Us and Beef. Other shows returned with new seasons in 2023, like Ted Lasso, You, The Bear, and The Mandalorian.\r\nA handful o… [+7763 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Digital Trends"
+            },
+            "author": "Jennifer Allen",
+            "title": "Save on the 10.2-inch iPad, iPad Mini, iPad Pro, and iPad Air for the holidays",
+            "description": "We've tracked down all the best iPad deals going on ahead of the holidays so you can find the best gift for your loved one.",
+            "url": "https://www.digitaltrends.com/mobile/ipad-holiday-deals-2023/",
+            "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2022/09/ipad-mini-2021-review-leader.jpg.webp?resize=1200%2C630&p=1",
+            "publishedAt": "2023-12-14T14:18:10Z",
+            "content": "Getting a new phone can sometimes seem like an expensive process, with many of the best phones coming in at price points that are out of reach for a lot of people. There are, however, a ton of phone … [+852 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Digital Trends"
+            },
+            "author": "Joe Maring",
+            "title": "I thought the Oura Ring would be the perfect fitness tracker. I was wrong",
+            "description": "The Oura Ring is one of best fitness trackers available in 2023. I finally tried one for myself ... and it didn't go as planned. Here's what happened.",
+            "url": "https://www.digitaltrends.com/mobile/i-want-to-love-the-oura-ring-but-i-cant/",
+            "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2023/12/oura-ring-rose-gold-horizon-standing-up.jpg?resize=1200%2C630&p=1",
+            "publishedAt": "2023-12-14T16:30:08Z",
+            "content": "Joe Maring / Digital Trends\r\nEver since I joined Digital Trends nearly two years ago, I’ve been tremendously jealous listening to my colleague, Andy Boxall, rave and rave about how much he loves the … [+7670 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Digital Trends"
+            },
+            "author": "Luke Larsen",
+            "title": "Intel’s new Core Ultra chips needed to be more than this",
+            "description": "Intel's new Core Ultra chips have landed, and from my testing, they haven't moved the needle like they needed to.",
+            "url": "https://www.digitaltrends.com/computing/intel-core-ultra-chips-needed-to-be-more/",
+            "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2023/12/acer-swift-go-14-core-ultra-1.jpg?resize=1200%2C630&p=1",
+            "publishedAt": "2023-12-14T15:00:49Z",
+            "content": "Luke Larsen / Digital Trends\r\nA lot has been made of Intel’s new Meteor Lake chips. They have a new brand, naming scheme, and even new technology in the form of the NPU (neural processing unit).\r\nAnd… [+9322 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Digital Trends"
+            },
+            "author": "Caleb Denison",
+            "title": "If I had $1,000 to spend on AV gear, here’s what I’d get",
+            "description": "Here's our expert advice on how to build the best entertainment system for your needs for under $1,000.",
+            "url": "https://www.digitaltrends.com/home-theater/best-entertainment-system-under-one-thousand-dollars/",
+            "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2023/12/Best-AV-System-Under-1K-feature.jpg?resize=1200%2C630&p=1",
+            "publishedAt": "2023-12-14T21:00:11Z",
+            "content": "Though prices on TVs, soundbars, and other home entertainment gear have come down some over the past few years, let’s face it: A/V gear is still pretty expensive. I regularly receive requests for hel… [+9807 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Atlantic"
+            },
+            "author": "Hanna Rosin",
+            "title": "How Trump Could Manipulate the Military",
+            "description": "It’s surprisingly easy",
+            "url": "https://www.theatlantic.com/podcasts/archive/2023/12/how-trump-could-manipulate-military/676341/?utm_source=feed",
+            "urlToImage": null,
+            "publishedAt": "2023-12-14T17:00:05Z",
+            "content": "When my colleague Tom Nichols, who taught at the Naval War College for 25 years, warns people that Donald Trump might be a threat to democracy, they often ask him to prove it. Yes, Trump has said dic… [+23304 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Github.com"
+            },
+            "author": "devos50",
+            "title": "QEMU-iOS, an emulator for legacy Apple devices",
+            "description": "A QEMU emulator for legacy Apple devices. Contribute to devos50/qemu-ios development by creating an account on GitHub.",
+            "url": "https://github.com/devos50/qemu-ios",
+            "urlToImage": "https://opengraph.githubassets.com/d6489124ca8a27e9d490acf2b480f20f20337d756c1621e7904b5eab0ca30e0d/devos50/qemu-ios",
+            "publishedAt": "2023-12-14T06:30:14Z",
+            "content": "QEMU-iOS is an emulator for legacy Apple devices.\r\nCurrently, the iPod Touch 1G and iPod Touch 2G are supported.\r\nRunning the iPod Touch 1G\r\nInstructions on how to run the iPod Touch 1G emulator can … [+232 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Masilotti.com"
+            },
+            "author": "Joe Masilotti",
+            "title": "Idea to App Store in 7 days",
+            "description": "The story of Daily Log, a web and iOS app that I built and launched to the App\nStore in 7 days.",
+            "url": "https://masilotti.com/idea-to-app-store-in-7-days/",
+            "urlToImage": "https://masilotti.com/images/og/idea-to-app-store-in-7-days.png",
+            "publishedAt": "2023-12-14T14:04:23Z",
+            "content": "Last week I started a new project to scratch an itch. Something simple but useful. And in just 7 days I launched a web and iOS app to the App Store. Heres the story of Daily Log.\r\nIve been using Appl… [+4926 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Liamrosen.com"
+            },
+            "author": null,
+            "title": "Beginner's Guide to Arguing Constructively",
+            "description": "How to turn arguments from vicious battles into productive dialogues.",
+            "url": "https://liamrosen.com/arguments.html",
+            "urlToImage": "http://www.liamrosen.com/argument_pyramid.png",
+            "publishedAt": "2023-12-14T01:18:32Z",
+            "content": "First published September 2020\r\nQuestions? Suggestions? E-mail me: \r\nCONTENTS\r\nPART I: INTROPART II: MINDSETPART III: PRE-WORKPART IV: BREAKING DOWN A DEBATEPART V: STRATEGIESPART VI: TIPSPART VII: C… [+30363 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Leo Becker",
+            "title": "E-Autos ohne CarPlay und Android Auto: GM verweist auf Verkehrssicherheit",
+            "description": "General Motors verteidigt die Entscheidung, in E-Autos die beliebte Smartphone-Integration zu streichen. Konkurrenten schütteln den Kopf.",
+            "url": "https://www.heise.de/news/E-Autos-ohne-CarPlay-und-Android-Auto-GM-verweist-auf-Verkehrssicherheit-9575029.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/5/1/4/2/4/7/shutterstock_1092829304-843d969de1adbf5a.jpg",
+            "publishedAt": "2023-12-14T16:04:00Z",
+            "content": "Der US-Autoriese General Motors beharrt auf der Entscheidung, CarPlay und Android Auto aus seinen E-Autos zu verbannen. Als Begründung für die von Nutzern scharf kritisierte Funktionsstreichung verwi… [+2001 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Martin Holland",
+            "title": "Urteil: Amazon muss Luxemburg nicht 250 Millionen Euro Steuern nachzahlen",
+            "description": "Brüssel hat Luxemburg 2017 aufgefordert, 250 Millionen Euro an Steuern von Amazon einzufordern. Den Rechtsstreit darum hat Brüssel nun abschließend verloren.",
+            "url": "https://www.heise.de/news/Urteil-Amazon-muss-Luxemburg-nicht-250-Millionen-Euro-Steuern-nachzahlen-9574997.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/5/1/4/2/3/1/shutterstock_1451625593-3285748d82fbd473.jpg",
+            "publishedAt": "2023-12-14T15:24:00Z",
+            "content": "Amazon hat sich in einem jahrelangen Rechtsstreit mit der EU-Kommission endgültig durchgesetzt und muss die früher veranschlagten 250 Millionen Euro Steuern plus Zinsen nicht an Luxemburg zurückzahle… [+1777 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Eva-Maria Weiß",
+            "title": "Metas langer Atem: Threads ist gekommen, um zu bleiben",
+            "description": "Threads ist nun auch in der EU verfügbar. Der Ansturm hält sich in Grenzen. Eva-Maria Weiß sieht trotzdem große Erfolgschancen.",
+            "url": "https://www.heise.de/hintergrund/Metas-langer-Atem-Threads-ist-gekommen-um-zu-bleiben-9574802.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/5/1/4/1/3/0/Threads-a08fbda73115f14a.jpg",
+            "publishedAt": "2023-12-14T13:28:00Z",
+            "content": "Inhaltsverzeichnis\r\nMeta hat Threads nun auch in der EU verfügbar gemacht. Dazu mussten ein paar Feinheiten geändert werden, etwa eine Trennung der Konten von Instagram und Threads. Sonst drohte Konf… [+5324 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Chance Miller",
+            "title": "Apple invites press to relive their own spatial videos on Vision Pro: ‘Almost brought me to tears’",
+            "description": "Apple has given another group of journalists the opportunity to try Vision Pro. This time around, Apple invited select members of the press to relive their own spatial videos using Vision Pro. This comes after Apple launched iOS 17.2 with support for recordin…",
+            "url": "https://9to5mac.com/2023/12/14/apple-spatial-video-vision-pro-recap/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/06/vision-pro-dad.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2023-12-14T18:22:33Z",
+            "content": "Apple has given another group of journalists the opportunity to try Vision Pro. This time around, Apple invited select members of the press to relive their own spatial videos using Vision Pro. This c… [+2520 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Zac Hall",
+            "title": "Best Apple Watch to buy for kids",
+            "description": "Apple Watch for kids is something parents are embracing more and more. The New York Times ran a story last year about Apple Watch adoption among children as young as five. Parents are finding the Apple Watch more appropriate for kids wanting smartphones.\n\n\n\nT…",
+            "url": "https://9to5mac.com/2023/12/14/apple-watch-for-kids/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2020/10/how-to-use-apple-watch-schooltime.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2023-12-14T08:00:00Z",
+            "content": "Apple Watch for kids is something parents are embracing more and more. The New York Times ran a story last year about Apple Watch adoption among children as young as five. Parents are finding the App… [+3706 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Michael Potuck",
+            "title": "Apple sells more pro iPhones than carriers but can’t capitalize on the advantage",
+            "description": "A new report from CIRP looks at how iPhone sales at Apple compare to carriers, specifically the mix of pro vs base iPhones purchased. As you might guess, Apple sells more higher-priced iPhones than carriers but there’s a catch that means it can’t take advanta…",
+            "url": "https://9to5mac.com/2023/12/14/apple-sells-more-pro-iphones-than-carriers/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/09/iphone-15-vs-15-pro-cameras.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2023-12-14T17:31:50Z",
+            "content": "A new report from CIRP looks at how iPhone sales at Apple compare to carriers, specifically the mix of pro vs base iPhones purchased. As you might guess, Apple sells more higher-priced iPhones than c… [+1526 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Ben Lovejoy",
+            "title": "App Store anti-steering ban would be consumer-friendly, with little risk to Apple",
+            "description": "We learned yesterday that the European Union looks set to impose an App Store anti-steering ban on Apple. That is, Apple would no longer be allowed to prevent Spotify and other music services from linking to their own company’s website for subscription sign-u…",
+            "url": "https://9to5mac.com/2023/12/14/app-store-anti-steering-rules/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/12/App-Store-anti-steering-ban.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2023-12-14T13:42:59Z",
+            "content": "We learned yesterday that the European Union looks set to impose an App Store anti-steering ban on Apple. That is, Apple would no longer be allowed to prevent Spotify and other music services from li… [+4075 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Zac Hall",
+            "title": "Apple releases first iOS 17.3 and macOS 14.3 betas alongside visionOS 1.0 beta 7",
+            "description": "Update: Two days later, iOS 17.3 and macOS Sonoma 14.3 are now available for public beta testers. For iPhone users, the update includes Stolen Device Protection.\n\n\n\n\n\n\n\nBoom. iOS 17.3 beta 1 has arrived alongside the seventh developer beta version of visionOS…",
+            "url": "https://9to5mac.com/2023/12/14/ios-17-3-beta-1-visionos-1-beta-7/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/12/iOS-17.3-hero.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2023-12-14T18:11:57Z",
+            "content": "Update: Two days later, iOS 17.3 and macOS Sonoma 14.3 are now available for public beta testers. For iPhone users, the update includes Stolen Device Protection.\r\nBoom. iOS 17.3 beta 1 has arrived al… [+1263 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Michael Potuck",
+            "title": "How to install iOS 17.3 beta and try the new Stolen Device Protection for iPhone",
+            "description": "Want to try out the latest iPhone security feature – Stolen Device Protection for iPhone? Read along for how to install iOS 17.3 beta for free as well as where to turn on the new iPhone protection that requires biometric authentication and more.\n\n\n\n more…",
+            "url": "https://9to5mac.com/2023/12/14/how-to-install-ios-17-3-beta/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/12/install-ios-17.3-beta-stolen-device-protection.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2023-12-14T20:46:00Z",
+            "content": "Want to try out the latest iPhone security feature Stolen Device Protection for iPhone? Read along for how to install iOS 17.3 beta for free as well as where to turn on the new iPhone protection that… [+2676 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Ben Lovejoy",
+            "title": "After 2nm will come TSMC 1.4nm chips, confusingly named A14",
+            "description": "There’s no letup in the race toward ever smaller processes. It’s just a couple of days since we heard that TSMC has shown Apple test results from a 2nm chip, and the company is already discussing the next generation – using a 1.4nm process.\n\n\n\nSomewhat confus…",
+            "url": "https://9to5mac.com/2023/12/14/tsmc-1-4nm-chips-a14/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/12/TSMC-1.4nm-chips.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2023-12-14T15:04:18Z",
+            "content": "There’s no letup in the race toward ever smaller processes. It’s just a couple of days since we heard that TSMC has shown Apple test results from a 2nm chip, and the company is already discussing the… [+2001 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Chance Miller",
+            "title": "iOS 17.2 released, Stolen Device Protection, Beeper blocked",
+            "description": "iOS 17.2 is finally here, and Benjamin and Chance break down all the new features. iOS 17.3 introduces new opt-in measures to protect against shoulder surfing thieves. Also, Apple blocks Beeper Mini, launches a USB-C case for AirPods Pro 2, and plans to start…",
+            "url": "https://9to5mac.com/2023/12/14/happy-hour-464/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2018/04/9to5mac-happy-hour-lead1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2023-12-14T19:00:08Z",
+            "content": "iOS 17.2 is finally here, and Benjamin and Chance break down all the new features. iOS 17.3 introduces new opt-in measures to protect against shoulder surfing thieves. Also, Apple blocks Beeper Mini,… [+853 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Seth Kurkowski",
+            "title": "9to5Mac Daily: December 14, 2023 – AirPods Pro 2 USB-C, App Store changes",
+            "description": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\n\n\n\nSponsored by Capital One S…",
+            "url": "https://9to5mac.com/2023/12/14/daily-december-14-2023/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2023-12-14T20:05:21Z",
+            "content": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apples Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overca… [+846 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Rikka Altland",
+            "title": "14-inch M3 Pro MacBook Pro $250 off, official iPhone 15 cases from $23, more",
+            "description": "A new all-time low is taking $250 off Apple’s 14-inch M3 Pro MacBook Pro, even managing to beat out the Black Friday pricing. It comes joined by a collection of official iPhone 15 series silicone cases from $23 each, alongside Belkin’s BoostCharge Pro 2-in-1 …",
+            "url": "https://9to5mac.com/2023/12/14/m3-pro-macbook-pro-iphone-25-silicone-case/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/12/m3-pro-macbook-pro-iphone-25-silicone-case.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2023-12-14T18:17:05Z",
+            "content": "A new all-time low is taking $250 off Apples 14-inch M3 Pro MacBook Pro, even managing to beat out the Black Friday pricing. It comes joined by a collection of official iPhone 15 series silicone case… [+3790 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Michael Potuck",
+            "title": "DashLane launches passwordless login, here’s who can use it for now",
+            "description": "Back in May, password manager DashLane announced it was working on ditching the master password for its credential vaults. Now the company has launched its initial wave of access to the feature and says it is the “first credential manager” to offer passwordle…",
+            "url": "https://9to5mac.com/2023/12/14/dashlane-launches-passwordless-login-who-can-use/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/12/dashlane-passwordless-login-available.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2023-12-14T20:10:04Z",
+            "content": "Back in May, password manager DashLane announced it was working on ditching the master password for its credential vaults. Now the company has launched its initial wave of access to the feature and s… [+2610 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Police"
+            },
+            "author": "Rajesh Pandey",
+            "title": "Some Beeper users are facing outages again",
+            "description": "The company says Apple is deliberately blocking iMessage deliveries to around 5% of its users",
+            "url": "https://www.androidpolice.com/some-beeper-users-facing-outages-again/",
+            "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/wm/2023/12/imessage-beeper-mini-hero-1.jpg",
+            "publishedAt": "2023-12-14T11:02:43Z",
+            "content": "Summary\r\n<ul><li> Beeper Mini, which offered the best iMessage experience on Android, has been experiencing an outage due to Apple deliberately blocking iMessage deliveries to 5% of Beeper Mini users… [+2872 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Police"
+            },
+            "author": "Manuel Vonau",
+            "title": "Android needs to copy these 2 iOS notification features",
+            "description": "Apple’s notification system is a lot less in your face than Android’s, and that’s sometimes nice",
+            "url": "https://www.androidpolice.com/android-copy-aspects-ios-notifications/",
+            "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/wm/2023/12/pixel-8-vs-iphone-13-notifications.jpg",
+            "publishedAt": "2023-12-14T12:01:20Z",
+            "content": "Before I even dive into this editorial, let me make one thing clear: I like Android’s notification system a lot better than Apple’s. By default, notifications are easier to access and much more granu… [+7458 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Scientific American"
+            },
+            "author": "Molly Glick",
+            "title": "Buying Used Tech This Holiday Season Can Avert Human Rights Abuses",
+            "description": "Here’s how to buy ethical tech and keep conflict minerals in the ground",
+            "url": "https://www.scientificamerican.com/article/buying-used-tech-this-holiday-season-can-avert-human-rights-abuses/",
+            "urlToImage": "https://static.scientificamerican.com/sciam/cache/file/40E72952-4800-4C10-807EF7A866E1CE0B_source.jpg?w=1200",
+            "publishedAt": "2023-12-14T14:00:00Z",
+            "content": "Our electronic devices have a dirty secret: they contain metals, including cobalt and copper, demand for which is fueling a humanitarian crisis in the Democratic Republic of the Congo (DRC). As devic… [+7557 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Kyle Hyatt",
+            "title": "What is Apple CarPlay and what does it do?",
+            "description": "Filed under:\n Car Buying,Driving,Parts and Accessories,Technology,Infotainment\n Continue reading What is Apple CarPlay and what does it do?\nWhat is Apple CarPlay and what does it do? originally appeared on Autoblog on Thu, 14 Dec 2023 14:55:00 EST. Please see…",
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_79f7c7d0-e68f-4b9a-b345-9513a0a4a7e0",
+            "urlToImage": null,
+            "publishedAt": "2023-12-14T19:55:00Z",
+            "content": "Si vous cliquez sur « Tout accepter », nos partenaires (y compris 241 qui font partie du Cadre de transparence et de consentement dIAB) et nous utiliserons également des témoins et vos données person… [+982 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Thekitchn.com"
+            },
+            "author": "Chris Perez",
+            "title": "What Does a Gram of Sugar, Salt, or Fat Really Look Like?",
+            "description": "I always check nutrition labels when I’m at the grocery store and use them to help pick the best option among the variety of pre-packaged foods I purchase. I check sugar, salt, and fat contents, but to me all those numbers (measured in grams) are an abstract …",
+            "url": "https://www.thekitchn.com/how-much-is-a-gram-of-sugar-really-nutrition-labels-visualized-173972",
+            "urlToImage": "https://cdn.apartmenttherapy.info/image/fetch/f_auto,q_auto:eco,c_fill,g_auto,w_1500,ar_3:2/https%3A%2F%2Fstorage.googleapis.com%2Fgen-atmedia%2F3%2F2012%2F07%2Fadfcc31486cb2a4d20215c6ee4534107bd113981.jpeg",
+            "publishedAt": "2023-12-14T19:00:00Z",
+            "content": "We independently select these products—if you buy from one of our links, we may earn a commission. All prices were accurate at the time of publishing.\r\nI always check nutrition labels when Im at the … [+1917 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MarketWatch"
+            },
+            "author": "Joseph Adinolfi",
+            "title": "Traders brace for chaotic ‘triple witching’ Friday as $5 trillion in expiring options collides with index-rebalancing mania",
+            "description": "Options contracts tied to more than $5 trillion worth of stocks, exchange-traded funds and indexes are set to expire on Friday as the latest \"triple witching\" expiration event collides with the rebalancing of the S&P 500 and Nasdaq-100.",
+            "url": "https://www.marketwatch.com/story/traders-brace-for-chaotic-triple-witching-friday-as-5-trillion-in-expiring-options-collides-with-index-rebalancing-mania-1b4c4791",
+            "urlToImage": "https://images.mktw.net/im-686820/social",
+            "publishedAt": "2023-12-14T23:11:00Z",
+            "content": "Options contracts tied to more than $5 trillion worth of stocks, exchange-traded funds and indexes are set to expire on Friday as the latest triple witching expiration event collides with the rebalan… [+5702 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "AppleInsider"
+            },
+            "author": "news@appleinsider.com (Christine McKee)",
+            "title": "Pick up an Apple Watch for as low as $199 just in time for Christmas",
+            "description": "Apple Watch deals are plentiful as holiday shopping hits a fever pitch, and we've rounded up the best price drops in effect right now on the Apple Watch Series 9, Ultra 2, SE 2 and more.New sale prices have hit Apple Watch models, with the SE 2 discounted to …",
+            "url": "https://appleinsider.com/articles/23/12/14/pick-up-an-apple-watch-for-as-low-as-199-just-in-time-for-christmas",
+            "urlToImage": "https://photos5.appleinsider.com/gallery/57713-117547-apple-watch-ultra-2-deal-xl.jpg",
+            "publishedAt": "2023-12-14T18:33:23Z",
+            "content": "Apple Watch deals are plentiful as holiday shopping hits a fever pitch, and we've rounded up the best price drops in effect right now on the Apple Watch Series 9, Ultra 2, SE 2 and more.\r\nNew sale pr… [+1362 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "AppleInsider"
+            },
+            "author": "news@appleinsider.com (Jess Pingrey)",
+            "title": "Daily deals Dec. 14: Apple Watch Ultra 2 $699, $100 off iPad Air 5, Apple TV for $45, more",
+            "description": "Today's top deals include an Apple Smart Keyboard for iPad Pro for $100, 40% off an HP Victus 15L gaming desktop computer, 34% off a Razer Huntsman V2 analog gaming keyboard, 56% off a Samsung Galaxy Watch 4, and more.Save $499 on an M1 Pro MacBook ProThe App…",
+            "url": "https://appleinsider.com/articles/23/12/14/daily-deals-dec-14-apple-watch-ultra-2-699-100-off-ipad-air-5-apple-tv-for-45-more",
+            "urlToImage": "https://photos5.appleinsider.com/gallery/57704-117541-daily-deals-dec-14-xl.jpg",
+            "publishedAt": "2023-12-14T16:13:02Z",
+            "content": "Save $499 on an M1 Pro MacBook Pro\r\nToday's top deals include an Apple Smart Keyboard for iPad Pro for $100, 40% off an HP Victus 15L gaming desktop computer, 34% off a Razer Huntsman V2 analog gamin… [+3814 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "AppleInsider"
+            },
+            "author": "news@appleinsider.com (Wesley Hilliard)",
+            "title": "Beeper Mini is down for 5% of users, but there's a fix",
+            "description": "The hacky iMessage app for Android called Beeper Mini is down for some users, but it seems reinstalling the app should provide a temporary fix.Beeper MiniBeeper Mini has been experiencing issues for a limited number of users since around 6 p.m. EST. Beeper po…",
+            "url": "https://appleinsider.com/articles/23/12/14/beeper-mini-is-down-for-5-of-users-but-theres-a-fix",
+            "urlToImage": "https://photos5.appleinsider.com/gallery/57708-117528-IMG_4429-xl.jpg",
+            "publishedAt": "2023-12-14T03:11:31Z",
+            "content": "Beeper Mini\r\nThe hacky iMessage app for Android called Beeper Mini is down for some users, but it seems reinstalling the app should provide a temporary fix.\r\nBeeper Mini has been experiencing issues … [+1496 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "AppleInsider"
+            },
+            "author": "news@appleinsider.com (Amber Neely)",
+            "title": "Apple TV+ secures deal for 'Murderbot' sci-fi series starring Alexander Skarsgard and helmed by Weitz brothers",
+            "description": "Apple TV+ has signed an order for \"Murderbot,\" a new series based on the bestselling and Hugo and Nebula Award-winning novels by Martha Wells.Apple TV+The 10-episode series is set to star Emmy Award winner Alexander Skarsgard (\"Succession,\" \"Big Little Lies,\"…",
+            "url": "https://appleinsider.com/articles/23/12/14/apple-tv-secures-deal-for-murderbot-sci-fi-series-starring-alexander-skarsgard-and-helmed-by-weitz-brothers",
+            "urlToImage": "https://photos5.appleinsider.com/gallery/42620-82692-000-lead-Apple-TV+-xl.jpg",
+            "publishedAt": "2023-12-14T20:28:29Z",
+            "content": "Apple TV+\r\nApple TV+ has signed an order for \"Murderbot,\" a new series based on the bestselling and Hugo and Nebula Award-winning novels by Martha Wells.\r\nThe 10-episode series is set to star Emmy Aw… [+1103 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "AppleInsider"
+            },
+            "author": "news@appleinsider.com (Amber Neely)",
+            "title": "Apple's iPhone 15 Pro transforms memories into 3D magic with Apple Vision Pro",
+            "description": "Apple reached out to select members of the press, offering them a chance to record Spatial Video via an iPhone 15 Pro so they could view their memories on the Apple Vision Pro.Apple added the ability to record Spatial Video to the iPhone 15 Pro and iPhone 15 …",
+            "url": "https://appleinsider.com/articles/23/12/14/apples-iphone-15-pro-transforms-memories-into-3d-magic-with-apple-vision-pro",
+            "urlToImage": "https://photos5.appleinsider.com/gallery/56142-113960-spatial-photos-xl.jpg",
+            "publishedAt": "2023-12-14T19:16:53Z",
+            "content": "Apple reached out to select members of the press, offering them a chance to record Spatial Video via an iPhone 15 Pro so they could view their memories on the Apple Vision Pro.\r\nApple added the abili… [+2334 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "AppleInsider"
+            },
+            "author": "news@appleinsider.com (Amber Neely)",
+            "title": "European Commission grills Apple and Google on app store risks and ad practices",
+            "description": "The European Commission has sent a formal request to Apple and Google asking the tech giants how they identify \"systemic risks\" to consumers in their respective app stores.European flagsBoth the App Store and Google Play have been designated as \"Very Large On…",
+            "url": "https://appleinsider.com/articles/23/12/14/european-commission-grills-apple-and-google-on-app-store-risks-and-ad-practices",
+            "urlToImage": "https://photos5.appleinsider.com/gallery/56723-115329-55303-112333-54627-110431-49422-96585-EU-Header-xl-xl-xl-xl.jpg",
+            "publishedAt": "2023-12-14T14:43:53Z",
+            "content": "European flags\r\nThe European Commission has sent a formal request to Apple and Google asking the tech giants how they identify \"systemic risks\" to consumers in their respective app stores. \r\nBoth the… [+1671 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "AppleInsider"
+            },
+            "author": "news@appleinsider.com (Wesley Hilliard)",
+            "title": "iPhone 15 review three months later: Pro features, lower price, plus USB-C",
+            "description": "Apple's iPhone 15 proves to be more Pro than not with user-facing upgrades like Dynamic Island, 48MP camera, and USB-C. After three months of use, it stands as the best choice for most.iPhone 15, it's green if you squintThe entry-level iPhone may not always b…",
+            "url": "https://appleinsider.com/articles/23/12/14/iphone-15-review-three-months-later-pro-features-lower-price-plus-usb-c",
+            "urlToImage": "https://photos5.appleinsider.com/gallery/57563-117354-iPhone-15-r8-xl.jpg",
+            "publishedAt": "2023-12-14T12:51:12Z",
+            "content": "iPhone 15, it's green if you squint\r\nApple's iPhone 15 proves to be more Pro than not with user-facing upgrades like Dynamic Island, 48MP camera, and USB-C. After three months of use, it stands as th… [+10024 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "AppleInsider"
+            },
+            "author": "news@appleinsider.com (Christine McKee)",
+            "title": "Snap up Apple's M3 16-inch MacBook Pro for $2,149 (the lowest price ever)",
+            "description": "Apple's Space Black 16-inch MacBook Pro with the M3 Pro chip combines top-notch performance in a stunning chassis. And it's discounted exclusively for AppleInsider readers to a record low $2,149 on top of $80 off three years of AppleCare.All-time low price on…",
+            "url": "https://appleinsider.com/articles/23/12/14/snap-up-apples-m3-16-inch-macbook-pro-for-2149-the-lowest-price-ever",
+            "urlToImage": "https://photos5.appleinsider.com/gallery/57706-117527-m3-macbook-pro-lowest-prices-xl.jpg",
+            "publishedAt": "2023-12-14T01:32:56Z",
+            "content": "Apple's Space Black 16-inch MacBook Pro with the M3 Pro chip combines top-notch performance in a stunning chassis. And it's discounted exclusively for AppleInsider readers to a record low $2,149 on t… [+1899 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Abduzeedo.com"
+            },
+            "author": "abduzeedo",
+            "title": "Revamping iDea Place: A Bold Approach in Branding",
+            "description": "Revamping iDea Place: A Bold Approach in Branding\n \n\n abduzeedo1213—23\n Discover how iDea Place's branding and visual identity overhaul, designed by Douglas Alf, uniquely positions it in the Apple ecosystem market.\r\n\n\nIn the dynamic world  of online retail, b…",
+            "url": "https://abduzeedo.com/node/88212",
+            "urlToImage": null,
+            "publishedAt": "2023-12-14T01:15:05Z",
+            "content": "Discover how iDea Place's branding and visual identity overhaul, designed by Douglas Alf, uniquely positions it in the Apple ecosystem market.\r\nIn the dynamic world  of online retail, branding and vi… [+2032 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Macworld"
+            },
+            "author": "Michael Simon",
+            "title": "You can now diagnose iPhone and Mac problems without going to an Apple Store",
+            "description": "Macworld\n\n\n\r\n\n\n\n\nUnless you have an obvious problem with your Apple device like a cracked screen, it can be hard to tell if an issue your device is having is something that needs repairing or something software-related that just needs a reinstall. Short of tr…",
+            "url": "https://www.macworld.com/article/2172507/apple-self-repair-diagnostic-troubleshooting-suite-iphone-mac.html",
+            "urlToImage": "https://www.macworld.com/wp-content/uploads/2023/12/apple-self-repair.jpg?quality=50&strip=all&w=1024",
+            "publishedAt": "2023-12-14T15:46:46Z",
+            "content": "Skip to contentType your search and hit enter\r\nWhen you purchase through links in our articles, we may earn a small commission. This doesn't affect our editorial independence\r\n.\r\nUnless you have an o… [+1521 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Macworld"
+            },
+            "author": "David Price",
+            "title": "Upgrade your AirPods Pro to USB-C for just $99",
+            "description": "Macworld\n\n\n\r\n\n\n\n\nIt’s always frustrating when you buy an expensive tech product and then a new version comes out a few months later. That sensation may be familiar to those who bought the AirPods Pro earlier this year, then saw a USB-C version roll out alongs…",
+            "url": "https://www.macworld.com/article/2172042/upgrade-airpods-pro-usb-c-99.html",
+            "urlToImage": "https://www.macworld.com/wp-content/uploads/2023/12/AirPods-Pro-USB-C-case-1.jpg?quality=50&strip=all&w=1024",
+            "publishedAt": "2023-12-14T11:49:50Z",
+            "content": "Skip to contentType your search and hit enter\r\nWhen you purchase through links in our articles, we may earn a small commission. This doesn't affect our editorial independence\r\n.\r\nIt’s always frustrat… [+2009 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.jp"
+            },
+            "author": "satomi",
+            "title": "EpicがGoogleに勝訴。Appleには負けたのになぜ？",
+            "description": "Image:KoshiroK/Shutterstock.comアップル税まで波及するのかなあ。「アプリストア決済の売上30％を収めないとアプリを売れないなんて､独占企業の弱いものイジメだ！」とFortnite開発元EpicGamesがAppleとGoogleを訴えている反トラスト法（独禁法）違反裁判。俗にいう「フォートナイト裁判」の対Google訴訟でサンフランシスコ連邦地裁は月曜、原告側の主張を",
+            "url": "https://www.gizmodo.jp/2023/12/epic-games-vs-google.html",
+            "urlToImage": "https://media.loom-app.com/gizmodo/dist/images/2023/12/14/1803790711.jpg?w=1280&h=630&f=jpg",
+            "publishedAt": "2023-12-14T03:30:00Z",
+            "content": "30FortniteEpic GamesAppleGoogleGoogle\r\nVideo: ABC News / YouTube\r\nAppleAppleEpicCEOCNBC2\r\nAppleGoogle\r\nAppleGoogle*\r\nAppleGoogleOK\r\nGoogleGoogleAppleGoogleCEO\r\nAndroidGoogle PlayEpic20203\r\n2000291530… [+56 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Zachary McAuliffe",
+            "title": "iOS 17.3 Beta 1: What Could Be Coming to Your iPhone Soon - CNET",
+            "description": "More security features and collaborative playlists could hit your iPhone soon.",
+            "url": "https://www.cnet.com/tech/services-and-software/ios-17-3-beta-1-what-could-be-coming-to-your-iphone-soon/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/5688cb8fdb350e4caeef131c5a9a6e8c456c60bc/hub/2023/10/16/0f5d453d-fc63-4b12-aaea-a1f36e847f73/ios-17-4405.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2023-12-14T20:30:42Z",
+            "content": "Apple released iOS 17.3 beta 1 to public beta testers on Thursday, two days after the iPhone-maker released the developer beta and three days after the release of iOS 17.2. The update brings a few ne… [+2879 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "David Carnoy",
+            "title": "Apple Is Now Selling the USB-C AirPods Pro 2's Charging Case Separately - CNET",
+            "description": "If you want to replace your AirPods Pro 2's Lighting-equipped charging case with the new USB-C version, you now can -- for $99.",
+            "url": "https://www.cnet.com/tech/mobile/apple-is-now-selling-the-usb-c-airpods-pro-2s-charging-case-separately/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/8404e37796250f47cfc1b3dbf52d2f585183110d/hub/2023/12/14/1e3dcf11-ecde-447f-b9c4-a3b7f63c7c5d/airpods-pro-2-case-usb-c.png?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2023-12-14T02:41:24Z",
+            "content": "When Apple released its slightly updated AirPods Pro 2 with MagSafe Charging Case (USBC) earlier this year, it didn't offer the USB-C charging case as a separate accessory. While the earlier AirPods … [+1223 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Stephen Shankland",
+            "title": "Chrome Starts Blocking Websites From Tracking Us, Years After Other Browsers - CNET",
+            "description": "Google is starting by blocking third-party cookies for only 1% of people using its Chrome web browser.",
+            "url": "https://www.cnet.com/tech/services-and-software/chrome-starts-blocking-websites-from-tracking-us-years-after-other-browsers/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/016d20d23157e17002a30eeb33075bf338291eab/hub/2019/05/09/9f2a88cf-2acc-4c04-b11e-03560e8d182f/20120314-google-chrome-lapel-pin-4sts-01.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2023-12-14T18:23:33Z",
+            "content": "Years after rival web browsers made the move, Google Chrome has begun blocking websites from using third-party cookies, the easiest way to track our online behavior as we move around the web.\r\nStarti… [+2036 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Meara Isenberg",
+            "title": "'Barbie' Will Stream on Max Tomorrow: Here's What Time You Can Watch - CNET",
+            "description": "It's nearly time to say, \"Hi, Barbie.\"",
+            "url": "https://www.cnet.com/tech/services-and-software/barbie-will-stream-on-max-tomorrow-heres-what-time-you-can-watch/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/a5da84ee29051d19c03c718b04fa3c39989eb651/hub/2022/12/16/c84da200-bbb1-4087-b0ed-3628682ceaf6/screenshot-2022-12-16-at-09-23-11.png?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2023-12-14T15:30:03Z",
+            "content": "Lots of people went to see Barbie -- the Greta Gerwig-directed movie about the famous Mattel doll -- in theaters. Now, Max is offering the hot-pink cultural phenomenon to its streaming subscribers.\r\n… [+7332 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Windows Central"
+            },
+            "author": "daniel@windowscentral.com (Daniel Rubino)",
+            "title": "Intel's gambit: New Core Ultra mobile CPUs take on Apple and AMD with AI chips, double the graphics power and ultra-efficient laptops. But will it work?",
+            "description": "Intel unveils specs for select Core Ultra series mobile CPUs, featuring a new core setup focused on efficiency, AI enhancements, and updates to its Evo platform for 2024.",
+            "url": "https://www.windowscentral.com/hardware/laptops/intel-confirms-core-ultra-mobile-cpu-specs-with-arc-lpe-cores-npu",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/KbxSMBggZ8F2d6YDD7MtBK-1200-80.jpg",
+            "publishedAt": "2023-12-14T15:00:30Z",
+            "content": "What you need to know\r\n<ul><li>Intel unveils Meteor Lake mobile CPUs with new Performance, Efficient, and Low-Power Efficient cores, powering Evo and vPro devices for premium and business users as th… [+18377 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Windows Central"
+            },
+            "author": "kevinokemwa@outlook.com (Kevin Okemwa)",
+            "title": "Microsoft ranked the BEST-MANAGED company for 4 years consecutively",
+            "description": "Microsoft has been ranked as the top best-managed company in 2023 by researchers at the Drucker Institute. Growth, employee retention, and customer satisfaction were the main metrics and categories used while ranking. Microsoft scored significantly high acros…",
+            "url": "https://www.windowscentral.com/microsoft/microsoft-ranked-the-best-managed-company-for-4-years-consecutively",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/XWx7x2T9oLngjQnwvXM5uA-1200-80.jpg",
+            "publishedAt": "2023-12-14T02:41:48Z",
+            "content": "What you need to know\r\n<ul><li>Microsoft has been ranked as the top best-managed company in 2023 by researchers at the Drucker Institute.</li><li>Apple and NVIDIA followed closely in second and third… [+2806 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Windows Central"
+            },
+            "author": "rebecca.spear@futurenet.com (Rebecca Spear)",
+            "title": "NPUs are essential for AI, but what are they, and how do they differ from GPUs?",
+            "description": "NPUs are dedicated AI chips that help take some of the work off of CPUs and GPUs when a computer does AI tasks. Here's why they are so important and how they differ from GPUs.",
+            "url": "https://www.windowscentral.com/hardware/what-is-npu-vs-gpu",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/F2zSsZtT47wBrpWVq4viBG-1200-80.jpg",
+            "publishedAt": "2023-12-14T10:44:38Z",
+            "content": "Artificial Intelligence (AI) has seen tremendous advancements over the last few months, providing more conveniences on PCs and faster processing times. A large part of AI-focused computer efficiency … [+6642 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Journal du geek"
+            },
+            "author": "tristan carballeda",
+            "title": "Le boitier des AirPods Pro USB-C vient d’arriver sur l’Apple Store",
+            "description": "Apple aura pris son temps, mais depuis hier, la boite de recharge des AirPods Pro USB-C vient d'arriver seule sur l'App Store. \nLe boitier des AirPods Pro USB-C vient d’arriver sur l’Apple Store",
+            "url": "https://www.journaldugeek.com/2023/12/14/le-boitier-des-airpods-pro-usb-c-vient-darriver-sur-lapple-store/",
+            "urlToImage": "https://www.journaldugeek.com/app/uploads/2023/12/airpods-pro-apple.jpg",
+            "publishedAt": "2023-12-14T11:00:16Z",
+            "content": "Lors de la sortie de l’iPhone 15, Apple a profité de l’attention mondiale qui était portée sur Cupertino pour mettre à jour ses AirPods Pro. Une nouvelle génération sans grand changement, qui se déma… [+2242 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Journal du geek"
+            },
+            "author": "Journal du Geek",
+            "title": "Pas besoin de racheter un PC ! Cet antivirus offre une réduction folle de -50 %",
+            "description": "Le leader mondial de la cybersécurité, Bitdefender, propose ses suites antivirus à moitié prix pour les fêtes de fin d'année.\nPas besoin de racheter un PC ! Cet antivirus offre une réduction folle de -50 %",
+            "url": "https://www.journaldugeek.com/2023/12/14/pas-besoin-de-racheter-un-pc-cet-antivirus-offre-une-reduction-folle-de-50/",
+            "urlToImage": "https://www.journaldugeek.com/app/uploads/2023/12/windows-ordinateur.webp",
+            "publishedAt": "2023-12-14T11:43:09Z",
+            "content": "3 suites de l’antivirus Bitdefender sont proposées avec 50 % de réduction sur le prix, pour une durée pour l’instant indéfinie :\r\n<ul><li>Bitdefender Antivirus Plus à 19,99 euros la première année au… [+3959 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Journal du geek"
+            },
+            "author": "Julie Hay",
+            "title": "The Batman 2 : Joker pourrait affronter Robert Pattinson",
+            "description": "\"Mon sourire en dit long\". Barry Keoghan évoque le potentiel retour de Joker dans Batman 2. Matt Reeves prépare-t-il son The Dark Knight ? \nThe Batman 2 : Joker pourrait affronter Robert Pattinson",
+            "url": "https://www.journaldugeek.com/2023/12/14/the-batman-2-joker-pourrait-affronter-robert-pattinson/",
+            "urlToImage": "https://www.journaldugeek.com/app/uploads/2023/12/batman-2-joker-2025.jpg",
+            "publishedAt": "2023-12-14T07:30:52Z",
+            "content": "Si DC s’apprête à mettre une décennie d’exploration super-héroïque derrière elle, la licence n’a pas rangé tous ses héros passés au placard. Face aux succès retentissants de Joker et The Batman, Warn… [+4039 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Applesfera.com"
+            },
+            "author": "Jesús Quesada",
+            "title": "El mejor teléfono de Apple tiene descuento y es el regalazo de Navidad",
+            "description": "Sin duda, el iPhone 15 Pro Max es el teléfono más completo del catálogo de Apple, además de ser uno de los más caros. Sin embargo, en Amazon está disponible con una rebaja que lo deja a su precio mínimo histórico y se puede adquirir por 1.399 euros.\n<!-- BREA…",
+            "url": "https://www.applesfera.com/seleccion/mejor-telefono-apple-tiene-descuento-regalazo-navidad",
+            "urlToImage": "https://i.blogs.es/307248/iphone-15-pro-max/840_560.jpeg",
+            "publishedAt": "2023-12-14T09:32:15Z",
+            "content": "Sin duda, el iPhone 15 Pro Max es el teléfono más completo del catálogo de Apple, además de ser uno de los más caros. Sin embargo, en Amazon está disponible con una rebaja que lo deja a su precio mín… [+2853 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Applesfera.com"
+            },
+            "author": "Miguel López",
+            "title": "En qué posición está Apple MLX frente a Copilot, Mistral y ChatGPT: la inteligencia artificial de Tim Cook se aventaja",
+            "description": "El desarrollo de una IA en Apple sigue a buen ritmo, aunque bajo el más absoluto secreto dentro de sus laboratorios. Sabemos sobre un modelo LLM llamado Ajax y que iOS 18 va a representar un avance en términos de inteligencia artificial, pero de momento nadie…",
+            "url": "https://www.applesfera.com/servicios-apple/que-posicion-esta-apple-mlx-frente-a-copilot-mistral-chatgpt-inteligencia-artificial-tim-cook-se-aventaja",
+            "urlToImage": "https://i.blogs.es/8341c0/captura-de-pantalla-2023-12-14-a-las-18.50.27/840_560.jpeg",
+            "publishedAt": "2023-12-14T17:55:43Z",
+            "content": "El desarrollo de una IA en Apple sigue a buen ritmo, aunque bajo el más absoluto secreto dentro de sus laboratorios. Sabemos sobre un modelo LLM llamado Ajax y que iOS 18 va a representar un avance e… [+2969 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Applesfera.com"
+            },
+            "author": "Jesús Quesada",
+            "title": "Si en el amigo invisible te ha tocado un fan de Apple, te solucionamos la papeleta: regalos originales por menos de 20 euros",
+            "description": "Es muy habitual poner un límite de dinero a la hora de hacer regalos del amigo invisible. Puede parecer que 20 euros no den para mucho cuando hablamos de tecnología, y menos si es para usuarios fans de Apple, pero sí que hay opciones a tener en cuenta que ent…",
+            "url": "https://www.applesfera.com/seleccion/amigo-invisible-te-ha-tocado-fan-apple-te-solucionamos-papeleta-regalos-originales-20-euros",
+            "urlToImage": "https://i.blogs.es/02672c/regalos-por-menos-de-20-euros/840_560.jpeg",
+            "publishedAt": "2023-12-14T16:31:29Z",
+            "content": "Es muy habitual poner un límite de dinero a la hora de hacer regalos del amigo invisible. Puede parecer que 20 euros no den para mucho cuando hablamos de tecnología, y menos si es para usuarios fans … [+3924 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Applesfera.com"
+            },
+            "author": "Miguel López",
+            "title": "Los consejos de Apple para hacer las mejores fotos navideñas con el iPhone",
+            "description": "Tener un iPhone 15 Pro no te convierte en un buen fotógrafo. Sí que puedes sacar fotografías a mejor calidad, pero las que realmente van a sorprender van a ser aquellas que se han pensado bien antes de tomarse. Apple sabe bien eso, y motiva a los usuarios par…",
+            "url": "https://www.applesfera.com/trucos/consejos-apple-para-hacer-mejores-fotos-navidenas-iphone",
+            "urlToImage": "https://i.blogs.es/0d7031/captura-de-pantalla-2023-12-14-a-las-16.54.26/840_560.jpeg",
+            "publishedAt": "2023-12-14T16:03:26Z",
+            "content": "Tener un iPhone 15 Pro no te convierte en un buen fotógrafo. Sí que puedes sacar fotografías a mejor calidad, pero las que realmente van a sorprender van a ser aquellas que se han pensado bien antes … [+4596 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Applesfera.com"
+            },
+            "author": "Álvaro García M.",
+            "title": "El easter egg de la Apple Store vuelve por Navidad: cuándo empezó y cómo encontrarlo",
+            "description": "No hay nada más navideño que imaginarse un paisaje nevado y Apple, que es muy dada a ciertas celebraciones, no elude la Navidad y ya ofrece en su aplicación 'Apple Store' su particular huevo de pascua con el que precisamente pinta el paisaje de la app con nie…",
+            "url": "https://www.applesfera.com/curiosidades/easter-egg-apple-store-vuelve-navidad-cuando-empezo-como-encontrarlo",
+            "urlToImage": "https://i.blogs.es/d3d947/nieve-apple-store/840_560.jpeg",
+            "publishedAt": "2023-12-14T08:01:28Z",
+            "content": "No hay nada más navideño que imaginarse un paisaje nevado y Apple, que es muy dada a ciertas celebraciones, no elude la Navidad y ya ofrece en su aplicación 'Apple Store' su particular huevo de pascu… [+3613 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Applesfera.com"
+            },
+            "author": "Álvaro García M.",
+            "title": "Llevaba años queriéndolo y ahora Apple lo presenta: así es la herramienta de autodiagnóstico para iPhone y Mac",
+            "description": "Estoy seguro de no ser el único al que le encantaría poder ejecutar un diagnóstico en el iPhone y Mac que nos ofrezca datos sobre el estado de los componentes. Tales como la degradación exacta de las baterías o los posibles problemas en la pantalla. Todo ello…",
+            "url": "https://www.applesfera.com/apple-1/llevaba-anos-queriendolo-ahora-apple-presenta-asi-herramienta-autodiagnostico-para-iphone-mac",
+            "urlToImage": "https://i.blogs.es/ec56cb/reparacion-apple/840_560.jpeg",
+            "publishedAt": "2023-12-14T09:45:28Z",
+            "content": "Estoy seguro de no ser el único al que le encantaría poder ejecutar un diagnóstico en el iPhone y Mac que nos ofrezca datos sobre el estado de los componentes. Tales como la degradación exacta de las… [+3278 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Applesfera.com"
+            },
+            "author": "Álvaro García M.",
+            "title": "Así es el sensor \"todo en uno\" que permitirá que el Apple Watch multiplique sus funciones de salud",
+            "description": "Un dispositivo con funciones de salud como el Apple Watch, aunque obtenga el aprobado de las entidades médicas, no se podrá considerar nunca un instrumento igual de válido que los de un centro médico. Sin embargo, están más cerca de ello gracias a avances en …",
+            "url": "https://www.applesfera.com/apple-watch/asi-sensor-todo-uno-que-permitira-que-apple-watch-multiplique-sus-funciones-salud",
+            "urlToImage": "https://i.blogs.es/2e6b85/sensor/840_560.jpeg",
+            "publishedAt": "2023-12-14T12:01:28Z",
+            "content": "Un dispositivo con funciones de salud como el Apple Watch, aunque obtenga el aprobado de las entidades médicas, no se podrá considerar nunca un instrumento igual de válido que los de un centro médico… [+4425 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Applesfera.com"
+            },
+            "author": "Miguel López",
+            "title": "¿Nuevo Mac? Llevo 17 años utilizándolos y esto es lo que siempre configuro nada más sacarlos de la caja",
+            "description": "Abrir un nuevo Mac, incluyas o no la ceremonia del unboxing, siempre da alegría. Es un gasto grande de dinero, pero te abre la puerta a un ordenador que puede estar contigo tranquilamente una década. Pero a veces esa alegría se une a la impaciencia de querer …",
+            "url": "https://www.applesfera.com/portatil/nuevo-mac-llevo-17-anos-utilizandolos-esto-que-siempre-configuro-nada-sacarlos-caja",
+            "urlToImage": "https://i.blogs.es/1689a3/captura-de-pantalla-2023-12-14-a-las-11.04.24/840_560.jpeg",
+            "publishedAt": "2023-12-14T11:01:29Z",
+            "content": "Abrir un nuevo Mac, incluyas o no la ceremonia del unboxing, siempre da alegría. Es un gasto grande de dinero, pero te abre la puerta a un ordenador que puede estar contigo tranquilamente una década.… [+4242 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Applesfera.com"
+            },
+            "author": "Álvaro García M.",
+            "title": "Cómo crear un álbum de fotos colaborativo en iPhone para compartir esta Navidad con los tuyos (incluso si usan Android)",
+            "description": "Todos conocemos la parte bonita en la que se envuelven las fiestas navideñas: reuniones de familia y amigos, decoraciones llenas de luces, viajes… En definitiva, experiencias muy dadas a ser fotografiadas. Y en plena era digital y con tantos iPhone en nuestra…",
+            "url": "https://www.applesfera.com/tutoriales/como-crear-album-fotos-colaborativo-iphone-para-compartir-esta-navidad-tuyos-incluso-usan-android",
+            "urlToImage": "https://i.blogs.es/1a5a3a/album-de-fotos/840_560.jpeg",
+            "publishedAt": "2023-12-14T14:05:27Z",
+            "content": "Todos conocemos la parte bonita en la que se envuelven las fiestas navideñas: reuniones de familia y amigos, decoraciones llenas de luces, viajes En definitiva, experiencias muy dadas a ser fotografi… [+3497 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MakeUseOf"
+            },
+            "author": "Aryan Surendranath",
+            "title": "Apple Watch GPS vs. Cellular: Is Cellular Worth It?",
+            "description": "The cellular Apple Watch gives you more freedom to go without your iPhone, but is this variant worth the money for you?",
+            "url": "https://www.makeuseof.com/apple-watch-gps-vs-cellular/",
+            "urlToImage": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/apple-watch-models-side-by-side.jpg",
+            "publishedAt": "2023-12-14T14:00:21Z",
+            "content": "Key Takeaways\r\n<ul><li> Upgrading to a cellular Apple Watch comes with added cost, but it allows you to leave your iPhone behind while continuing to make phone calls and stream music. </li><li> Both … [+4280 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MakeUseOf"
+            },
+            "author": "Rob Webb, Barry Peacock",
+            "title": "The Best Soundbars of 2023",
+            "description": "Take your home entertainment audio experience to the next level with these excellent soundbars.",
+            "url": "https://www.makeuseof.com/best-soundbars/",
+            "urlToImage": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/sonos-beam-gen-2.jpg",
+            "publishedAt": "2023-12-14T15:01:20Z",
+            "content": "A good soundbar goes a long way to enhancing your home theater sound system. While audiophiles may prefer a more traditional speaker setup, soundbars are easier to install and control and can fit nic… [+9516 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MakeUseOf"
+            },
+            "author": "Zarif Ali",
+            "title": "Samsung Galaxy Tab S9+ Review: The Same Old Middleweight Champion",
+            "description": "The Galaxy Tab S9+ is the perfect middle-ground in Samsung's flagship tablet lineup, making it the ultimate premium Android tablet for the masses.",
+            "url": "https://www.makeuseof.com/samsung-galaxy-tab-s9-review/",
+            "urlToImage": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/samsung-galaxy-tab-s9-samsung-notes-app.jpg",
+            "publishedAt": "2023-12-14T14:15:21Z",
+            "content": "Key Takeaways\r\n<ul><li> The Tab S9+ strikes a balance between high-end features and practicality, making it a suitable choice for the everyday user. </li><li> Thanks to its impressive AMOLED display … [+10959 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phandroid - News for Android"
+            },
+            "author": "Mike Viray",
+            "title": "GM Issues Statement After Decision to Drop Support for Android Auto",
+            "description": "Just recently, General Motors announced that it would be dropping support for Android Auto several months after switching over to Google’s automotive smart platform from Apple CarPlay. As such, there’s been speculation that the move ties in with a new strateg…",
+            "url": "https://phandroid.com/2023/12/14/gm-issues-statement-after-decision-to-drop-support-for-android-auto/",
+            "urlToImage": "https://phandroid.com/wp-content/uploads/2023/12/general-motors-640x379.png",
+            "publishedAt": "2023-12-14T12:25:41Z",
+            "content": "Just recently, General Motors announced that it would be dropping support for Android Auto several months after switching over to Google’s automotive smart platform from Apple CarPlay. As such, there… [+1249 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phandroid - News for Android"
+            },
+            "author": "Tyler Lee",
+            "title": "Android developers can now integrate Google’s Gemini AI into their apps",
+            "description": "Google has announced that developers who are interested can now start integrating its Gemini AI into their apps.\nThe post Android developers can now integrate Google’s Gemini AI into their apps appeared first on Phandroid.",
+            "url": "https://phandroid.com/2023/12/14/android-developers-can-now-integrate-googles-gemini-ai-into-their-apps/",
+            "urlToImage": "https://phandroid.com/wp-content/uploads/2022/04/google-logo.jpg",
+            "publishedAt": "2023-12-14T10:13:36Z",
+            "content": "Last week, Google announced the launch of Gemini, its latest AI thats designed to take on and maybe even surpass OpenAIs GPT-4. One of the versions of the AI is called Gemini Nano, a version designed… [+1271 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Search Engine Journal"
+            },
+            "author": "Shelley Walsh",
+            "title": "12 Social Media Experts Offer Their Predictions For 2024 via @sejournal, @theshelleywalsh",
+            "description": "Glimpse the future of social media marketing in 2024! Learn from 12 experts on trends, AI integration, and strategies shaping the evolving digital landscape.\nThe post 12 Social Media Experts Offer Their Predictions For 2024 appeared first on Search Engine Jou…",
+            "url": "https://www.searchenginejournal.com/social-media-experts-predictions/503126/",
+            "urlToImage": "https://www.searchenginejournal.com/wp-content/uploads/2023/12/sm-rev-65782d7a1d10c-sej.jpg",
+            "publishedAt": "2023-12-14T09:15:10Z",
+            "content": "Social media has seen interesting changes recently.\r\nThe dramatic changes at Twitter – now rebranded as ‘X’ – saw many SEO professionals looking for new social media platforms to maintain their commu… [+15383 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "DIYphotography"
+            },
+            "author": "Dunja Djudjic",
+            "title": "Luminar Neo’s GenExpand lets AI expand your image beyond its borders",
+            "description": "Skylum has added the third and final member of it trio of new AI-powered editing tools. After releasing GenErase in October and GenSwap in November, now’s the time for GenExpand. As the name suggests, this tool lets you expand your shots using generative tech…",
+            "url": "https://www.diyphotography.net/luminar-neos-genexpand-lets-ai-expand-your-image-beyond-its-borders/",
+            "urlToImage": "https://www.diyphotography.net/wp-content/uploads/2023/12/luminar-GenExpand-2-Dmytro-Mykhalchuk.jpg",
+            "publishedAt": "2023-12-14T16:04:00Z",
+            "content": "Skylum has added the third and final member of it trio of new AI-powered editing tools. After releasing GenErase in October and GenSwap in November, now’s the time for GenExpand. As the name suggests… [+1820 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Presse-citron"
+            },
+            "author": "Presse-citron",
+            "title": "Quand on est auto-entrepreneur, quels sont les outils clés pour gérer ses finances ?",
+            "description": "Au-delà de l'activité, il faut savoir parfaitement maitriser ses finances quand on est à son compte. Hello bank! Pro offre une gamme complète de services et de produits pour répondre à une clientèle d'auto-entrepreneurs et indépendants.",
+            "url": "https://www.presse-citron.net/quand-on-est-auto-entrepreneur-quels-sont-les-outils-cles-pour-gerer-ses-finances/",
+            "urlToImage": "https://www.presse-citron.net/app/uploads/2022/11/entrepreneur-startup.jpg",
+            "publishedAt": "2023-12-14T15:13:05Z",
+            "content": "La France est devenue en une décennie un eldorado pour les entrepreneurs. Grâce à linitiative French Tech lancée en 2013 par Fleur Pellerin, des millions de Français se sont lancés dans laventure de … [+5301 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Golem.de"
+            },
+            "author": "Andreas Donath",
+            "title": "Europol: Kriminelle nutzen Bluetoothtracker für illegale Sendungen",
+            "description": "Europol warnt davor, dass Kriminelle Bluetoothtracker nutzten, um illegale Waren während des Transports zu orten. (Airtag, Apple)",
+            "url": "https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Feuropol-kriminelle-nutzen-bluetoothtracker-fuer-illegale-sendungen-2312-180309.html&referer=https%3A%2F%2Ft.co%2Fd97f4b6ccc",
+            "urlToImage": null,
+            "publishedAt": "2023-12-14T06:25:01Z",
+            "content": "Besuchen Sie Golem.de wie gewohnt mit Werbung und Tracking,\r\n indem Sie der Nutzung aller Cookies zustimmen.\r\n Details zum Tracking finden Sie im Privacy Center.\r\nSkript wurde nicht geladen. Informat… [+607 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Golem.de"
+            },
+            "author": "Ingo Pakalski",
+            "title": "Apple: Ladeetui mit USB-C für Airpods Pro 2 für 110 Euro verfügbar",
+            "description": "Das nun einzeln verfügbare USB-C-Ladeetui ist mit allen Modellen der Airpods Pro 2 kompatibel. Eingeschränkt lassen sich auch die Airpods Pro der ersten Generation damit nutzen. (Airpods, Apple)",
+            "url": "https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Fapple-ladeetui-mit-usb-c-fuer-airpods-pro-2-fuer-110-euro-verfuegbar-2312-180312.html&referer=https%3A%2F%2Ft.co%2F3b298d84a1",
+            "urlToImage": null,
+            "publishedAt": "2023-12-14T07:19:01Z",
+            "content": "Besuchen Sie Golem.de wie gewohnt mit Werbung und Tracking,\r\n indem Sie der Nutzung aller Cookies zustimmen.\r\n Details zum Tracking finden Sie im Privacy Center.\r\nSkript wurde nicht geladen. Informat… [+607 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Dpreview.com"
+            },
+            "author": "Jeff L Carlson",
+            "title": "iPhone 15 Pro vs iPhone 15: Tested and Compared",
+            "description": "Recent Videos\r\n!function(n){if(!window.cnx){window.cnx={},window.cnx.cmd=[];var t=n.createElement('iframe');t.src='javascript:false';t.display='none',t.onload=function(){var n=t.contentWindow.document,c=n.createElement('script');c.src='//cd.connatix.com/conna…",
+            "url": "https://www.dpreview.com/articles/8615681274/iphone-15-pro-vs-iphone-15-camera-test",
+            "urlToImage": "https://3.img-dpreview.com/files/p/E~TS940x788~articles/8615681274/iPhone15-plus-pro3.jpeg",
+            "publishedAt": "2023-12-14T14:00:00Z",
+            "content": "When the iPhone 15 and iPhone 15 Pro models were first announced, we looked at the features and specs to compare them. Now that weve shot with both a Pro and non-Pro iPhone, its time to revisit the '… [+11768 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Dpreview.com"
+            },
+            "author": "Eric Limer",
+            "title": "DJI Brings 8K/75p performance to the Ronin 4D with the Zenmuse X9-8K camera",
+            "description": "<table>\n\n<tr>\n<td></td>\n</tr>\n\r\n\n</table>\nWhen DJI announced its extremely innovative Ronin 4D camera and stabilizer combo in 2021, we were very impressed. Maybe the most innovative video product in a decade, the world's first four-axis cinema camera was a sh…",
+            "url": "https://www.dpreview.com/news/2120049729/ronin-4d-8k-zenmuse-x9-8k-release",
+            "urlToImage": "https://4.img-dpreview.com/files/p/E~TS940x788~articles/2120049729/DJI_Ronin_4D-8K_white_right_45.jpeg",
+            "publishedAt": "2023-12-14T20:51:00Z",
+            "content": "When DJI announced its extremely innovative Ronin 4D camera and stabilizer combo in 2021, we were very impressed. Maybe the most innovative video product in a decade, the world's first four-axis cine… [+7109 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "XDA Developers"
+            },
+            "author": "Brady Snyder",
+            "title": "The 4 worst Apple mice of all time",
+            "description": "Apple was the first to commercialize the computer mouse. Then it made a slew of awful mice over the decades that followed.",
+            "url": "https://www.xda-developers.com/four-worst-apple-mice-of-all-time/",
+            "urlToImage": "https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2023/11/imac-magic-mouse-lightning.jpg",
+            "publishedAt": "2023-12-14T20:01:22Z",
+            "content": "Although many people give Apple a hard time for not really inventing anything, one product it does deserve a bit of credit for is the computer mouse. Even in this case, the mouse was developed by SRI… [+4391 chars]"
+        }
+    ]
+}
