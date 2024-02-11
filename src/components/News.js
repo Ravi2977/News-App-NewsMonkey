@@ -2,8 +2,10 @@ import React, { Component } from 'react'
 import PropTypes from 'prop-types'
 import NewsItem from './NewsItem'
 import Spinner from './Spinner'
+import newsApi from './newsApi'
 
 export class News extends Component {
+      
     static defaultProps = {
         counry: "in",
         page: 15,
@@ -23,6 +25,7 @@ export class News extends Component {
             page: 1
         }
     }
+ 
     async componentDidMount() {
         try {
             let url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=6ee19af4c58a4381a2835a76b8a892b6&page=1&pageSize=15`;
@@ -33,6 +36,7 @@ export class News extends Component {
             // Once you have the parsed data, you can use it or set it to state, etc.
             console.log(parseData); // For example, logging the parsed data
             this.setState({ articles: parseData.articles, totalResults: parseData.totalResults, loading: false });
+            console.log(newsApi[0].description)
             // You can perform operations with parseData here
         } catch (error) {
             // Handle any errors that occur during the fetch or parsing
@@ -87,7 +91,7 @@ export class News extends Component {
                     <h1>NewsMonkey</h1>
                     {this.state.loading && <Spinner />}
                     <div className="row">
-                        {!(this.state.loading) && this.state.articles.map((element) => {
+                        {newsApi.map((element) => {
                             return <div className="col-md-4" key={element.url}>
                                 <NewsItem title={element.title ? element.title.slice(0, 35) : ""} description={element.description ? element.description.slice(0, 88) : ""} imgurl={element.urlToImage} newUrl={element.url} author={element.author} date={element.publishedAt} source={element.source.name} />
 
